@@ -1,119 +1,117 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="tensorGT — Security Researcher & Web Penetration Tester" width="100%" />
+  <img src="./assets/hero.svg" alt="hi, i'm tensorGT" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/tensorGT">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=720&lines=Breaking+web+apps+before+attackers+do.;Web+Penetration+Testing+%C2%B7+Exploit+Dev+%C2%B7+Protocol+Audits;Zero-Password+Cryptography+in+Rust+%26+Go;Distributed+Systems+%C2%B7+Kafka+%C2%B7+Docker+%C2%B7+Linux" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=20&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=720&lines=just+a+software+engineer+who+likes+tidy+distributed+systems;trying+to+keep+latency+low+and+ram+usage+even+lower;sometimes+i+find+bugs+in+web+apps+on+purpose" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tensorGT&label=PROFILE%20VIEWS&color=00f5d4&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/FOCUS-WEB%20PENTESTING-ec4899?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Web Pentesting" />
-  <img src="https://img.shields.io/badge/RESEARCH-APPSEC%20%26%20CRYPTO-a855f7?style=for-the-badge&logo=owasp&logoColor=white" alt="AppSec & Crypto" />
+  <img src="https://komarev.com/ghpvc/?username=tensorGT&label=visitors&color=f472b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/into-distributed%20systems-a78bfa?style=for-the-badge" alt="Distributed Systems" />
+  <img src="https://img.shields.io/badge/side%20quest-web%20pentesting-34d399?style=for-the-badge" alt="Web Pentesting" />
 </p>
 
 ---
 
-### Security Research & Offensive Arsenal
+### what i'm usually up to
 
 <p align="center">
-  <img src="./assets/sec-arsenal.svg" alt="Security Research & Web Penetration Testing Matrix" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="./assets/vibe-card.svg" alt="distributed systems, maintainable code, and offensive security" width="100%" />
 </p>
 
 ---
 
-### Tech Stack & Infrastructure
+### things i type into an editor
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Python-ff8fab?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-fbbf24?style=for-the-badge&logo=javascript&logoColor=1f2937" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Rust-fb7185?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Go-38bdf8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/CSS3-c084fc?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Linux-f472b6?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-60a5fa?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kafka-a78bfa?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Postgres-818cf8?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-34d399?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Redis-f87171?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Burp_Suite-fb923c?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/OWASP-ec4899?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Kali_Linux-2dd4bf?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 </p>
 
 ---
 
-### Featured Projects
+### some stuff i made
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/tensorGT/safeAuth"><strong>safeAuth</strong></a><br/>
-      <sub>Zero-password, local-first auth in Go rooted in a 128-bit BIP39 seed, per-origin Ed25519 keys, Argon2id vault &amp; 1-of-N Schnorr ring proofs.</sub>
+      <sub>a little zero-password auth system in go with 128-bit bip39 seeds, per-origin ed25519 keys, and an encrypted vault because passwords are annoying.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="#"><strong>Project Alpha — Lorem Ipsum</strong></a><br/>
-      <sub>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="#"><strong>Project Beta — Lorem Ipsum</strong></a><br/>
-      <sub>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="#"><strong>Project Gamma — Lorem Ipsum</strong></a><br/>
-      <sub>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</sub>
+      <a href="#"><strong>project one — lorem ipsum</strong></a><br/>
+      <sub>lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="#"><strong>Project Delta — Lorem Ipsum</strong></a><br/>
-      <sub>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</sub>
+      <a href="#"><strong>project two — lorem ipsum</strong></a><br/>
+      <sub>ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="#"><strong>Project Epsilon — Lorem Ipsum</strong></a><br/>
-      <sub>Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra.</sub>
+      <a href="#"><strong>project three — lorem ipsum</strong></a><br/>
+      <sub>duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="#"><strong>Project Zeta — Lorem Ipsum</strong></a><br/>
-      <sub>Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu.</sub>
+      <a href="#"><strong>project four — lorem ipsum</strong></a><br/>
+      <sub>excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="#"><strong>More on GitHub &rarr;</strong></a><br/>
-      <sub>Explore all repositories, security advisories, and research notes.</sub>
+      <a href="#"><strong>project five — lorem ipsum</strong></a><br/>
+      <sub>curabitur pretium tincidunt lacus. nulla gravida orci a odio. nullam varius, turpis et commodo pharetra.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="#"><strong>project six — lorem ipsum</strong></a><br/>
+      <sub>maecenas malesuada. praesent congue erat at massa. sed cursus turpis vitae tortor. donec posuere vulputate arcu.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tensorGT?tab=repositories"><strong>everything else &rarr;</strong></a><br/>
+      <sub>feel free to poke around the rest of my repos.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### GitHub Telemetry
+### little stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tensorGT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1120&title_color=00f5d4&icon_color=ec4899" alt="tensorGT GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tensorGT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1120&title_color=00f5d4" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tensorGT&show_icons=true&hide_border=true&bg_color=fff1f2&title_color=be185d&icon_color=ec4899&text_color=4c1d95" alt="tensorGT GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tensorGT&layout=compact&hide_border=true&bg_color=f5f3ff&title_color=6d28d9&text_color=4c1d95" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tensorGT&theme=tokyonight&hide_border=true&background=0b1120&ring=00f5d4&fire=ec4899&currStreakLabel=00f5d4" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=tensorGT&hide_border=true&background=fdf2f8&ring=ec4899&fire=f43f5e&currStreakLabel=be185d&sideLabels=6d28d9&currStreakNum=4c1d95&sideNums=4c1d95&dates=9d174d" alt="GitHub Streak" />
 </p>
 
 ---
 
-### Contribution Snake
+### contribution snake
 
 <p align="center">
   <picture>

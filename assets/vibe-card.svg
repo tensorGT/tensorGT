@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220" role="img" aria-label="what i actually spend my time on">
+  <defs>
+    <linearGradient id="c1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffe4e6" />
+      <stop offset="100%" stop-color="#fecdd3" />
+    </linearGradient>
+    <linearGradient id="c2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ede9fe" />
+      <stop offset="100%" stop-color="#ddd6fe" />
+    </linearGradient>
+    <linearGradient id="c3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#d1fae5" />
+      <stop offset="100%" stop-color="#a7f3d0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card 1: Distributed Systems -->
+  <g transform="translate(10, 14)">
+    <rect width="312" height="190" rx="22" fill="url(#c1)" stroke="#fda4af" stroke-width="1.5" />
+    <circle cx="268" cy="44" r="18" fill="#fb7185" fill-opacity="0.25">
+      <animate attributeName="r" values="16;22;16" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="268" cy="44" r="8" fill="#f43f5e" />
+    <text x="26" y="50" fill="#881337" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" font-weight="700">distributed systems</text>
+    <text x="26" y="88" fill="#9f1239" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14.5">i like building things that scale</text>
+    <text x="26" y="110" fill="#9f1239" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14.5">nicely without eating all the</text>
+    <text x="26" y="132" fill="#9f1239" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14.5">cpu or waking anyone up at 3am.</text>
+    <rect x="26" y="152" width="126" height="22" rx="11" fill="#ffffff" fill-opacity="0.7" />
+    <text x="89" y="167" text-anchor="middle" fill="#be123c" font-family="-apple-system, sans-serif" font-size="12" font-weight="600">resource efficient</text>
+  </g>
+
+  <!-- Card 2: Maintainable Code -->
+  <g transform="translate(344, 14)">
+    <rect width="312" height="190" rx="22" fill="url(#c2)" stroke="#c4b5fd" stroke-width="1.5" />
+    <rect x="252" y="28" width="28" height="28" rx="8" fill="#8b5cf6" fill-opacity="0.25">
+      <animateTransform attributeName="transform" type="rotate" values="0 266 42; 15 266 42; 0 266 42" dur="5s" repeatCount="indefinite" />
+    </rect>
+    <circle cx="266" cy="42" r="7" fill="#7c3aed" />
+    <text x="26" y="50" fill="#4c1d95" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" font-weight="700">maintainable stuff</text>
+    <text x="26" y="88" fill="#5b21b6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14.5">boring, readable code that</text>
+    <text x="26" y="110" fill="#5b21b6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14.5">future-me can actually debug</text>
+    <text x="26" y="132" fill="#5b21b6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14.5">six months later without crying.</text>
+    <rect x="26" y="152" width="118" height="22" rx="11" fill="#ffffff" fill-opacity="0.7" />
+    <text x="85" y="167" text-anchor="middle" fill="#6d28d9" font-family="-apple-system, sans-serif" font-size="12" font-weight="600">clean &amp; simple</text>
+  </g>
+
+  <!-- Card 3: Offensive Security -->
+  <g transform="translate(678, 14)">
+    <rect width="312" height="190" rx="22" fill="url(#c3)" stroke="#6ee7b7" stroke-width="1.5" />
+    <path d="M266,26 L278,42 L266,58 L254,42 Z" fill="#10b981" fill-opacity="0.3">
+      <animateTransform attributeName="transform" type="scale" values="0.9;1.12;0.9" dur="3.5s" repeatCount="indefinite" />
+    </path>
+    <circle cx="266" cy="42" r="7" fill="#059669" />
+    <text x="26" y="50" fill="#064e3b" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" font-weight="700">offensive security</text>
+    <text x="26" y="88" fill="#065f46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14.5">i've spent way too much time</text>
+    <text x="26" y="110" fill="#065f46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14.5">poking holes in web apps, which</text>
+    <text x="26" y="132" fill="#065f46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14.5">mostly just makes me paranoid.</text>
+    <rect x="26" y="152" width="128" height="22" rx="11" fill="#ffffff" fill-opacity="0.7" />
+    <text x="90" y="167" text-anchor="middle" fill="#047857" font-family="-apple-system, sans-serif" font-size="12" font-weight="600">web pentesting</text>
+  </g>
+</svg>
