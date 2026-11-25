@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 220" width="1000" height="220" role="img" aria-label="Offensive Security and Penetration Testing Capabilities">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="pulseLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0" />
+      <stop offset="50%" stop-color="#00f5d4" stop-opacity="1" />
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="220" rx="14" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Animated Signal Line -->
+  <line x1="30" y1="48" x2="970" y2="48" stroke="#1e293b" stroke-width="1" />
+  <rect x="30" y="47" width="180" height="2.5" fill="url(#pulseLine)">
+    <animateTransform attributeName="transform" type="translate" from="-180 0" to="970 0" dur="3.6s" repeatCount="indefinite" />
+  </rect>
+
+  <text x="30" y="32" fill="#00f5d4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" font-weight="700" letter-spacing="1.5">
+    [ OFFENSIVE SECURITY &amp; WEB PENETRATION TESTING MATRIX ]
+  </text>
+
+  <!-- Card 1 -->
+  <g transform="translate(30, 68)">
+    <rect width="220" height="124" rx="10" fill="#0f172a" stroke="#00f5d4" stroke-opacity="0.35" />
+    <circle cx="22" cy="24" r="5" fill="#00f5d4">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="36" y="29" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="700">Web Exploitation</text>
+    <text x="16" y="58" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="12">· Auth &amp; OAuth Bypass</text>
+    <text x="16" y="80" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="12">· SSRF / IDOR / RCE</text>
+    <text x="16" y="102" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="12">· XSS &amp; Deserialization</text>
+  </g>
+
+  <!-- Card 2 -->
+  <g transform="translate(270, 68)">
+    <rect width="220" height="124" rx="10" fill="#0f172a" stroke="#3b82f6" stroke-opacity="0.4" />
+    <circle cx="22" cy="24" r="5" fill="#3b82f6">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="36" y="29" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="700">Applied Crypto</text>
+    <text x="16" y="58" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="12">· Ed25519 / Schnorr ZK</text>
+    <text x="16" y="80" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="12">· Zero-Password Auth</text>
+    <text x="16" y="102" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="12">· Protocol &amp; Replay Audits</text>
+  </g>
+
+  <!-- Card 3 -->
+  <g transform="translate(510, 68)">
+    <rect width="220" height="124" rx="10" fill="#0f172a" stroke="#a855f7" stroke-opacity="0.4" />
+    <circle cx="22" cy="24" r="5" fill="#a855f7">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.3s" repeatCount="indefinite" />
+    </circle>
+    <text x="36" y="29" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="700">API &amp; Infra Recon</text>
+    <text x="16" y="58" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="12">· GraphQL / REST Fuzzing</text>
+    <text x="16" y="80" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="12">· Container / K8s Escapes</text>
+    <text x="16" y="102" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="12">· Attack Surface Mapping</text>
+  </g>
+
+  <!-- Card 4 -->
+  <g transform="translate(750, 68)">
+    <rect width="220" height="124" rx="10" fill="#0f172a" stroke="#ec4899" stroke-opacity="0.4" />
+    <circle cx="22" cy="24" r="5" fill="#ec4899">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="1.8s" repeatCount="indefinite" />
+    </circle>
+    <text x="36" y="29" fill="#f8fafc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="700">Red Team Tooling</text>
+    <text x="16" y="58" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="12">· Custom Rust/Go Scanners</text>
+    <text x="16" y="80" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="12">· Burp Extensions &amp; PoCs</text>
+    <text x="16" y="102" fill="#94a3b8" font-family="ui-monospace, monospace" font-size="12">· Automated Exploit Chains</text>
+  </g>
+</svg>
