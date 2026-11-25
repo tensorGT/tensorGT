@@ -11,9 +11,10 @@
 ### tools &amp; languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-7A8C74?style=flat-square&logo=python&logoColor=F9F8F6" alt="Pytjhon" />
-  <img src="https://img.shields.io/badge/JavaScript-7A8C74?style=flat-square&logo=javascript&logoColor=F9F8F6" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Rust-7A8C74?style=flat-square&logo=rust&logoColor=F9F8F6" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-7A8C74?style=flat-square&logo=python&logoColor=F9F8F6" alt="Python" />
+  <img src="https://img.shields.io/badge/JS_%2F_TS-7A8C74?style=flat-square&logo=typescript&logoColor=F9F8F6" alt="JS / TS" />
+  <img src="https://img.shields.io/badge/React-7A8C74?style=flat-square&logo=react&logoColor=F9F8F6" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-7A8C74?style=flat-square&logo=nextdotjs&logoColor=F9F8F6" alt="Next.js" />
   <img src="https://img.shields.io/badge/Go-7A8C74?style=flat-square&logo=go&logoColor=F9F8F6" alt="Go" />
   <img src="https://img.shields.io/badge/CSS3-7A8C74?style=flat-square&logo=css3&logoColor=F9F8F6" alt="CSS3" />
 </p>
