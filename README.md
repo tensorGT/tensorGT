@@ -11,7 +11,7 @@
 ### tools &amp; languages
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-7A8C74?style=flat-square&logo=python&logoColor=F9F8F6" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-7A8C74?style=flat-square&logo=python&logoColor=F9F8F6" alt="Pytjhon" />
   <img src="https://img.shields.io/badge/JavaScript-7A8C74?style=flat-square&logo=javascript&logoColor=F9F8F6" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Rust-7A8C74?style=flat-square&logo=rust&logoColor=F9F8F6" alt="Rust" />
   <img src="https://img.shields.io/badge/Go-7A8C74?style=flat-square&logo=go&logoColor=F9F8F6" alt="Go" />
