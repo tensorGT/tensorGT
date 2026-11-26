@@ -45,6 +45,16 @@
       <sub>zero-password auth in go with 128-bit bip39 seeds, per-origin ed25519 keys, and an encrypted local vault.</sub>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/tensorGT/scannex"><strong>scannex</strong></a><br/>
+      <sub>fast windows storage scanner written in rust for indexing drives and media libraries.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tensorGT/greg"><strong>greg</strong></a><br/>
+      <sub>fast local ai background remover and image pipeline with cli, browser ui, ndjson streaming, and mcp server.</sub>
+    </td>
+    <td width="50%" valign="top">
       <a href="https://github.com/tensorGT/fastapi-webhook-reconcile"><strong>fastapi-webhook-reconcile</strong></a><br/>
       <sub>hmac-signed webhook ingestion, idempotency deduplication, and ledger reconciliation in fastapi + sqlite.</sub>
     </td>
@@ -63,16 +73,6 @@
     <td width="50%" valign="top">
       <a href="https://github.com/tensorGT/playwright-checkpoint-runner"><strong>playwright-checkpoint-runner</strong></a><br/>
       <sub>resilient headless browser + api workflow runner with step checkpoints and failure snapshots.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tensorGT/go-url-health-check"><strong>go-url-health-check</strong></a><br/>
-      <sub>concurrent http endpoint health checker in go using goroutines, waitgroups, and latency reporting.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/tensorGT/rust-wc-line-counter"><strong>rust-wc-line-counter</strong></a><br/>
-      <sub>lightweight rust cli for counting lines, words, and bytes with result error handling.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/tensorGT?tab=repositories"><strong>all repositories &rarr;</strong></a><br/>
