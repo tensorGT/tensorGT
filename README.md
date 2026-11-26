@@ -89,3 +89,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=tensorGT&show_icons=true&bg_color=F9F8F6&title_color=2C3629&icon_color=7A8C74&text_color=524F4B&border_color=E1E5DF" alt="tensorGT GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tensorGT&layout=compact&bg_color=F9F8F6&title_color=2C3629&text_color=524F4B&border_color=E1E5DF" alt="Top Languages" height="165" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tensorGT/tensorGT/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tensorGT/tensorGT/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tensorGT/tensorGT/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
