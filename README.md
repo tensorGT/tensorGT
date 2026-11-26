@@ -45,34 +45,34 @@
       <sub>zero-password auth in go with 128-bit bip39 seeds, per-origin ed25519 keys, and an encrypted local vault.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="#"><strong>project one — lorem ipsum</strong></a><br/>
-      <sub>lorem ipsum dolor sit amet, consectetur adipiscing elit. sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</sub>
+      <a href="https://github.com/tensorGT/fastapi-webhook-reconcile"><strong>fastapi-webhook-reconcile</strong></a><br/>
+      <sub>hmac-signed webhook ingestion, idempotency deduplication, and ledger reconciliation in fastapi + sqlite.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="#"><strong>project two — lorem ipsum</strong></a><br/>
-      <sub>ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</sub>
+      <a href="https://github.com/tensorGT/async-http-header-check"><strong>async-http-header-check</strong></a><br/>
+      <sub>rate-limited async http security header, cors, and open-redirect auditor built with asyncio and httpx.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="#"><strong>project three — lorem ipsum</strong></a><br/>
-      <sub>duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="#"><strong>project four — lorem ipsum</strong></a><br/>
-      <sub>excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="#"><strong>project five — lorem ipsum</strong></a><br/>
-      <sub>curabitur pretium tincidunt lacus. nulla gravida orci a odio. nullam varius, turpis et commodo pharetra.</sub>
+      <a href="https://github.com/tensorGT/local-port-tls-checker"><strong>local-port-tls-checker</strong></a><br/>
+      <sub>allowlist-guarded local port scanner, banner grabber, and tls certificate/cipher inspector in python.</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="#"><strong>project six — lorem ipsum</strong></a><br/>
-      <sub>maecenas malesuada. praesent congue erat at massa. sed cursus turpis vitae tortor. donec posuere vulputate arcu.</sub>
+      <a href="https://github.com/tensorGT/playwright-checkpoint-runner"><strong>playwright-checkpoint-runner</strong></a><br/>
+      <sub>resilient headless browser + api workflow runner with step checkpoints and failure snapshots.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tensorGT/go-url-health-check"><strong>go-url-health-check</strong></a><br/>
+      <sub>concurrent http endpoint health checker in go using goroutines, waitgroups, and latency reporting.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/tensorGT/rust-wc-line-counter"><strong>rust-wc-line-counter</strong></a><br/>
+      <sub>lightweight rust cli for counting lines, words, and bytes with result error handling.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/tensorGT?tab=repositories"><strong>all repositories &rarr;</strong></a><br/>
